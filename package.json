@@ -1,0 +1,13 @@
+{
+  "name": "twitter-box",
+  "version": "1.0.0",
+  "description": "An interface with Twitter's APIs",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
